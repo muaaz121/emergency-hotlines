@@ -1,0 +1,1 @@
+getElementById selects a single element by its unique ID, getElementsByClassName selects all elements with a specific class, querySelector finds the first element that matches a CSS selector, and querySelectorAll finds all elements that match a CSS selector and returns a static list.
